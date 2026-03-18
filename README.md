@@ -161,7 +161,7 @@ Ready Player Fit was developed to demonstrate:
 
 ## Sample Meme
 
-
+![ScreenRecording2026-03-17at10 55 22AM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d5dd4c3d-8990-4787-bb47-5efe0a81b453)
 
 ---
 
